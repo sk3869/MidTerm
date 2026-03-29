@@ -2,7 +2,7 @@
 
 A digital museum documenting how personal technology shaped everyday life from the 1970s to the 2010s. Built with Next.js 15, TypeScript, and Tailwind CSS v4 using a spec-driven development process.
 
-**Live site:** `https://<username>.github.io/MidTerm/`
+**Live site:** https://sk3869.github.io/MidTerm/
 
 ---
 

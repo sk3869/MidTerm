@@ -45,7 +45,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 01',
         name: 'Altair 8800',
         year: 1975,
-        image: '/images/altair-8800.jpg',
+        image: '/MidTerm/images/altair-8800.jpg',
         significance:
           'The first commercially successful personal computer kit, sold by MITS for $439 to hobbyists who assembled it from parts without a keyboard, monitor, or operating system.',
         curatorialNote:
@@ -55,7 +55,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 02',
         name: 'Apple II',
         year: 1977,
-        image: '/images/apple-ii.jpg',
+        image: '/MidTerm/images/apple-ii.jpg',
         significance:
           'One of the first mass-produced microcomputers with color graphics and an open expansion slot architecture, credited with bringing personal computing into American homes and classrooms.',
         curatorialNote:
@@ -65,7 +65,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 03',
         name: 'IBM PC 5150',
         year: 1981,
-        image: '/images/ibm-pc.webp',
+        image: '/MidTerm/images/ibm-pc.webp',
         significance:
           'Established the open-architecture standard by using off-the-shelf components and licensing MS-DOS, inadvertently creating the clone market that defined the PC industry for three decades.',
         curatorialNote:
@@ -109,7 +109,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 01',
         name: 'Motorola DynaTAC 8000X',
         year: 1983,
-        image: '/images/motorola-dynatac.jpg',
+        image: '/MidTerm/images/motorola-dynatac.jpg',
         significance:
           'The first commercially available handheld cellular phone, weighing 1.75 pounds, offering 30 minutes of talk time, and retailing for $3,995.',
         curatorialNote:
@@ -119,7 +119,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 02',
         name: 'Nokia 3310',
         year: 2000,
-        image: '/images/nokia-3310.png',
+        image: '/MidTerm/images/nokia-3310.png',
         significance:
           'Sold over 126 million units globally and became a cultural symbol of the pre-smartphone era, representing the peak of the feature phone: affordable, durable, and universally accessible.',
         curatorialNote:
@@ -129,7 +129,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 03',
         name: 'Apple iPhone (1st generation)',
         year: 2007,
-        image: '/images/iphone.webp',
+        image: '/MidTerm/images/iphone.webp',
         significance:
           'Introduced the modern smartphone paradigm — capacitive touchscreen, full mobile internet browser, and an application ecosystem — redefining what a phone was.',
         curatorialNote:
@@ -173,7 +173,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 01',
         name: 'Sony Walkman TPS-L2',
         year: 1979,
-        image: '/images/sony-walkman.webp',
+        image: '/MidTerm/images/sony-walkman.webp',
         significance:
           'The first commercially successful portable cassette player, which created the concept of personal mobile music and sold over 400 million units across its product lifetime.',
         curatorialNote:
@@ -183,7 +183,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 02',
         name: 'Diamond Rio PMP300',
         year: 1998,
-        image: '/images/diamond-rio.jpg',
+        image: '/MidTerm/images/diamond-rio.jpg',
         significance:
           'One of the first mass-market portable MP3 players, which triggered an RIAA lawsuit — a legal battle the RIAA lost, establishing the legitimacy of portable digital music.',
         curatorialNote:
@@ -193,7 +193,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 03',
         name: 'Apple iPod (1st generation)',
         year: 2001,
-        image: '/images/ipod.webp',
+        image: '/MidTerm/images/ipod.webp',
         significance:
           'The first portable music player to combine a large hard drive, a scroll-wheel interface, and seamless desktop library integration.',
         curatorialNote:
@@ -237,7 +237,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 01',
         name: 'NCSA Mosaic Browser',
         year: 1993,
-        image: '/images/mosaic.webp',
+        image: '/MidTerm/images/mosaic.webp',
         significance:
           'The first web browser to display inline images alongside text, making the World Wide Web visually accessible to general users and triggering the first wave of mainstream internet adoption.',
         curatorialNote:
@@ -247,7 +247,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 02',
         name: 'AOL Dial-Up Service',
         year: 1993,
-        image: '/images/aol.jpg',
+        image: '/MidTerm/images/aol.jpg',
         significance:
           'Introduced email, instant messaging, and online communities to mainstream American households through a mass CD distribution campaign.',
         curatorialNote:
@@ -257,7 +257,7 @@ export const exhibits: Exhibit[] = [
         label: 'Artifact 03',
         name: 'Google Search',
         year: 1998,
-        image: '/images/google.webp',
+        image: '/MidTerm/images/google.webp',
         significance:
           'Replaced directory-based web navigation with algorithmic search, fundamentally changing how people find information and establishing the advertising-supported search model.',
         curatorialNote:

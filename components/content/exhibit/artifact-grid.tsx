@@ -26,6 +26,7 @@ export function ArtifactGrid({ artifacts }: ArtifactGridProps) {
               year={artifact.year}
               significance={artifact.significance}
               curatorialNote={artifact.curatorialNote}
+              image={artifact.image}
             />
           ))}
         </div>

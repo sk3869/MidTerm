@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import { cn } from '@/lib/utils'
 
 interface ArtifactCardProps {
@@ -23,8 +22,9 @@ export function ArtifactCard({
   return (
     <div className={cn('flex flex-col border border-[var(--color-gray-300)]', className)}>
       {image && (
-        <div className="relative w-full h-48 bg-[var(--color-gray-100)]">
-          <Image src={image} alt={name} fill className="object-contain" />
+        <div className="w-full h-48 bg-[var(--color-gray-100)] overflow-hidden flex items-center justify-center">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={image} alt={name} className="max-h-full max-w-full object-contain" />
         </div>
       )}
       <div className="p-6 flex flex-col flex-1">

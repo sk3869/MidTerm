@@ -24,12 +24,7 @@ export function ArtifactCard({
     <div className={cn('flex flex-col border border-[var(--color-gray-300)]', className)}>
       {image && (
         <div className="relative w-full h-48 bg-[var(--color-gray-100)]">
-          <Image
-            src={image}
-            alt={name}
-            fill
-            className="object-contain"
-          />
+          <Image src={image} alt={name} fill className="object-contain" />
         </div>
       )}
       <div className="p-6 flex flex-col flex-1">

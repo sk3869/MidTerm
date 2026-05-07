@@ -136,24 +136,24 @@ npm run dev        # http://localhost:3000
 
 ## Bibliography
 
-Computer History Museum. "Timeline of Computer History." Accessed 2025. https://computerhistory.org/timelines
+Wikipedia contributors. (2026, March 30). Altair 8800. Wikipedia. https://en.wikipedia.org/wiki/Altair_8800
 
-Computer History Museum. "Internet History." Accessed 2025. https://computerhistory.org
+Wikipedia contributors. (2026a, March 21). Apple II. Wikipedia. https://en.wikipedia.org/wiki/Apple_II
 
-Encyclopaedia Britannica. "Computer: Home Use, Microprocessors, and Software." Accessed 2025. https://www.britannica.com/technology/computer/Home-use-microprocessors-software
+Miller, M. J. (2021, August 12). Project Chess: The story behind the original IBM PC. PCMAG. https://www.pcmag.com/news/project-chess-the-story-behind-the-original-ibm-pc
 
-Encyclopaedia Britannica. "Internet: History and Development." Accessed 2025. https://www.britannica.com/technology/Internet
+Afifi-Sabet, K. (2024, March 13). Looking back at the Motorola DynaTAC 8000X - the first mobile phone that was ever sold 40 years ago today. TechRadar. https://www.techradar.com/pro/looking-back-at-the-motorola-dynatac-8000x-the-first-mobile-phone-that-was-ever-sold-40-years-ago-today
 
-Smithsonian Institution. "The History of the Cell Phone." Smithsonian Magazine. Accessed 2025. https://www.smithsonianmag.com
+Wikipedia contributors. Nokia 3310. Wikipedia. https://en.wikipedia.org/wiki/Nokia_3310
 
-Smithsonian Institution. "How the Walkman Changed the Way We Listen to Music." Smithsonian Magazine. Accessed 2025. https://www.smithsonianmag.com
+Rilm. (2026, February 13). Smithsonian Collections Object: The Sony TPS-L2 "Walkman" Cassette Player, National Museum of American History. Bibliolore. https://bibliolore.org/2020/03/04/smithsonian-collections-object-the-sony-tps-l2-walkman-cassette-player-national-museum-of-american-history/
 
-International Telecommunication Union. "ICT Statistics: Mobile Subscribers." Accessed 2025. https://www.itu.int
+All-TIME 100 Gadgets. (2010, October 25). TIME.com. https://content.time.com/time/specials/packages/article/0,28804,2023689_2023681_2023678,00.html
 
-Internet World Stats. "Internet Growth Statistics." Accessed 2025. https://www.internetworldstats.com
+The complete history of Apple's iPod. (n.d.). CNET. https://www.cnet.com/pictures/the-complete-history-of-apples-ipod/
 
-U.S. Census Bureau. "Computer and Internet Use in the United States." Accessed 2025. https://www.census.gov
+Calore, M. (2010, April 22). April 22, 1993: Mosaic Browser lights up web with color, creativity. WIRED. https://www.wired.com/2010/04/0422mosaic-web-browser/
 
-NPD Group. "U.S. Digital Music Player Market Share Report." 2004.
+Why are 2 million people still signed up for AOL's dial-up internet? (n.d.). WNYC Studios. https://www.wnycstudios.org/podcasts/otm/articles/why-are-2-million-people-still-signed-aols-dial-internet
 
-Page, Lawrence, and Sergey Brin. "The Anatomy of a Large-Scale Hypertextual Web Search Engine." Stanford University, 1998. https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/
+Shontell, A. (2017, May 10). Here's what Google looked like the first day it launched in 1998. Business Insider. https://www.businessinsider.com/heres-what-google-looked-like-the-first-day-it-launched-in-1998-2013-9
